@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201174350731",
+    "project_id": "real-time-firebase-demo-f6955",
+    "storage_bucket": "real-time-firebase-demo-f6955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201174350731:android:27e042ac1e616b1a2d8d8e",
+        "android_client_info": {
+          "package_name": "com.nhadt.realtimefirbasechat.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201174350731-k0lstguagdshjgjt41gaa1udgposrr0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhadt.realtimefirbasechat.dev",
+            "certificate_hash": "0cf780ac747a1f4e47c89e7b5a81df4861131a0f"
+          }
+        },
+        {
+          "client_id": "201174350731-fe5c4qkav9ke386qvdmufrvlerdrls8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY73WSvm8lyEsVw7DXmyzCVeNKcKoXjeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201174350731-fe5c4qkav9ke386qvdmufrvlerdrls8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
